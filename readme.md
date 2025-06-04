@@ -13,7 +13,7 @@ A real-time network monitoring tool with GUI for device discovery and network st
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/EasyNetworkManager.git
+git clone https://github.com/astrotaca/EasyNetworkManager.git
 cd EasyNetworkManager
 pip install -r requirements.txt
 python main.py
